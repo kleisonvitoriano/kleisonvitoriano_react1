@@ -1,0 +1,176 @@
+@import url(https://db.onlinewebfonts.com/c/b77483504f720bf0ce1d3f83f694ea52?family=Pexico-Regular);
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Em seu arquivo App.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Pexico-Regular";
+}
+
+/* Deixe as regras para 'body' e '.App' como estão */
+
+.background-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+header {
+  position: sticky;
+  background-color: black;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10;
+  box-sizing: border-box; /* Garante que o padding não aumente a largura total */
+}
+
+.logo {
+  font-size: 2em;
+  color: #00FF7F; /* Cor verde do tema */
+  font-weight: 600;
+  text-shadow: 0 0 5px #00FF7F;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav li {
+  margin-left: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  font-size: 1.1em;
+  transition: color 0.3s, text-shadow 0.3s;
+}
+
+nav a:hover {
+  color: #00FF7F;
+  text-shadow: 0 0 5px #00FF7F;
+}
+
+/* Em seu arquivo App.css */
+
+/* Deixe as regras para 'body', '.App', e '.background-container' como estão */
+
+/* Em seu arquivo App.css */
+
+/* Deixe as regras para 'body', '.App', e '.background-container' como estão */
+
+.main-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+  z-index: 2;
+  background-color: black;
+  margin-top:100px;
+  margin-left: 10%;
+  border-radius: 40px;
+
+  padding: 15px;
+
+
+  /* Layout flex para alinhar os containers */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+}
+
+/* O container do texto precisa de um tamanho definido */
+.text-ascii-container {
+  position: relative; /* Cria um contexto para o texto absoluto dentro dele */
+  width: 500px; /* Dê a ele uma largura fixa */
+  height: 250px; /* E uma altura fixa */
+  
+}
+
+.left-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center; /* Centraliza o texto dentro do DecryptedText também */
+}
+
+/* O container do card não precisa de regras extras, pois o componente
+   ProfileCard já tem seu próprio tamanho definido internamente. */
+.Card-container {
+  /* Vazio */
+}
+
+.sobreMim-container{
+  display: flex;
+  flex-direction: column;
+  margin: 10%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 80%;
+  height: 720px;
+  scroll-margin-top: 100px; /* Adicionado para compensar o header */
+
+  
+}
+
+.buttons-sobreMim {
+  display: flex;
+  justify-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.btn-social-item {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.7rem 1.2rem;
+  border: 2px solid #00FF7F;
+  color: #00FF7F;
+  text-decoration: none;
+  font-size: 1.2em;
+  font-family: 'Pexico-Regular', sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+  border-radius: 5px;
+   text-shadow: 0 0 5px #00FF7F;
+}
+
+.btn-social-item:hover {
+  background-color: #00FF7F;
+  color: black;
+}
+
+.btn-social-item i {
+  margin-right: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.placeholder-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px; /* Altura de exemplo */
+  width: 100%;
+  color: white;
+  scroll-margin-top: 100px; /* Compensa o header */
+}

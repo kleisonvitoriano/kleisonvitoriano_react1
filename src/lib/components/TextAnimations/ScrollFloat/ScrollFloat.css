@@ -1,0 +1,23 @@
+/*
+	Installed from https://reactbits.dev/default/
+*/
+
+.scroll-float {
+  overflow: hidden;
+}
+
+.scroll-float-text {
+  display: inline-block;
+  font-size: clamp(1.6rem, 5vw, 4rem);
+  font-weight: 900;
+  text-align: center;
+  line-height: 1.5;
+
+  color: #00FF7F; /* Cor verde do tema */
+ 
+  text-shadow: 0 0 5px #00FF7F;
+}
+
+.char {
+  display: inline-block;
+}
