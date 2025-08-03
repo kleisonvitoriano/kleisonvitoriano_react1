@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kleisonvitoriano_react1/static/css/main.209c260e.css",
+    "main.js": "/kleisonvitoriano_react1/static/js/main.03d6ee5c.js",
+    "static/js/453.9004145a.chunk.js": "/kleisonvitoriano_react1/static/js/453.9004145a.chunk.js",
+    "index.html": "/kleisonvitoriano_react1/index.html",
+    "main.209c260e.css.map": "/kleisonvitoriano_react1/static/css/main.209c260e.css.map",
+    "main.03d6ee5c.js.map": "/kleisonvitoriano_react1/static/js/main.03d6ee5c.js.map",
+    "453.9004145a.chunk.js.map": "/kleisonvitoriano_react1/static/js/453.9004145a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209c260e.css",
+    "static/js/main.03d6ee5c.js"
+  ]
+}
