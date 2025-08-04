@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kleisonvitoriano_react1/static/css/main.9e1e4152.css",
-    "main.js": "/kleisonvitoriano_react1/static/js/main.d1bed3f6.js",
+    "main.css": "/kleisonvitoriano_react1/static/css/main.325d4cf2.css",
+    "main.js": "/kleisonvitoriano_react1/static/js/main.74c7b38e.js",
     "static/js/453.9004145a.chunk.js": "/kleisonvitoriano_react1/static/js/453.9004145a.chunk.js",
     "index.html": "/kleisonvitoriano_react1/index.html",
-    "main.9e1e4152.css.map": "/kleisonvitoriano_react1/static/css/main.9e1e4152.css.map",
-    "main.d1bed3f6.js.map": "/kleisonvitoriano_react1/static/js/main.d1bed3f6.js.map",
+    "main.325d4cf2.css.map": "/kleisonvitoriano_react1/static/css/main.325d4cf2.css.map",
+    "main.74c7b38e.js.map": "/kleisonvitoriano_react1/static/js/main.74c7b38e.js.map",
     "453.9004145a.chunk.js.map": "/kleisonvitoriano_react1/static/js/453.9004145a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e1e4152.css",
-    "static/js/main.d1bed3f6.js"
+    "static/css/main.325d4cf2.css",
+    "static/js/main.74c7b38e.js"
   ]
 }
