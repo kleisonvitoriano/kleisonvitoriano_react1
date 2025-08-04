@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/kleisonvitoriano_react1/static/css/main.cebb4791.css",
-    "main.js": "/kleisonvitoriano_react1/static/js/main.320c3119.js",
+    "main.css": "/kleisonvitoriano_react1/static/css/main.faffdc15.css",
+    "main.js": "/kleisonvitoriano_react1/static/js/main.a5996fe6.js",
+    "static/css/640.5246ddaa.chunk.css": "/kleisonvitoriano_react1/static/css/640.5246ddaa.chunk.css",
+    "static/js/640.01e7d43d.chunk.js": "/kleisonvitoriano_react1/static/js/640.01e7d43d.chunk.js",
     "static/js/453.9004145a.chunk.js": "/kleisonvitoriano_react1/static/js/453.9004145a.chunk.js",
     "index.html": "/kleisonvitoriano_react1/index.html",
-    "main.cebb4791.css.map": "/kleisonvitoriano_react1/static/css/main.cebb4791.css.map",
-    "main.320c3119.js.map": "/kleisonvitoriano_react1/static/js/main.320c3119.js.map",
+    "main.faffdc15.css.map": "/kleisonvitoriano_react1/static/css/main.faffdc15.css.map",
+    "main.a5996fe6.js.map": "/kleisonvitoriano_react1/static/js/main.a5996fe6.js.map",
+    "640.5246ddaa.chunk.css.map": "/kleisonvitoriano_react1/static/css/640.5246ddaa.chunk.css.map",
+    "640.01e7d43d.chunk.js.map": "/kleisonvitoriano_react1/static/js/640.01e7d43d.chunk.js.map",
     "453.9004145a.chunk.js.map": "/kleisonvitoriano_react1/static/js/453.9004145a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cebb4791.css",
-    "static/js/main.320c3119.js"
+    "static/css/main.faffdc15.css",
+    "static/js/main.a5996fe6.js"
   ]
 }
